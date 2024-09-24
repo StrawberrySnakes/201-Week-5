@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\bin\Debug\net8.0\week5Demo1.exe
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\bin\Debug\net8.0\week5Demo1.deps.json
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\bin\Debug\net8.0\week5Demo1.runtimeconfig.json
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\bin\Debug\net8.0\week5Demo1.dll
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\bin\Debug\net8.0\week5Demo1.pdb
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.dll
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\refint\week5Demo1.dll
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.pdb
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\week5Demo1.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\week5Demo1\week5Demo1\obj\Debug\net8.0\ref\week5Demo1.dll
